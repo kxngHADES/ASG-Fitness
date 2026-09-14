@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="asg_fitness"
+        android:label="ASG Fitness"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
